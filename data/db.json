@@ -1,0 +1,56 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Tomato Basil Pasta",
+      "ingredients": [
+        "Spaghetti",
+        "Tomatoes, diced",
+        "Basil leaves, chopped",
+        "Garlic, minced",
+        "3 tbsp olive oil"
+      ],
+      "method": "1. Cook spaghetti according to package instructions. 2. In a large skillet, heat olive oil over medium heat. 3. Add garlic and sauté for 1-2 minutes until fragrant. 4. Add diced tomatoes and sauté until they are heated through, about 2-3 minutes. 5. Toss cooked spaghetti with the tomato sauce and chopped basil leaves. 6. Serve immediately.",
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Stuffed Bell Peppers",
+      "ingredients": [
+        "4 large bell peppers",
+        "1 lb. ground beef",
+        "1 cup cooked rice",
+        "1 can diced tomatoes",
+        "1 tsp garlic powder"
+      ],
+      "method": "1. Preheat oven to 375°F. 2. In a large skillet, cook ground beef until browned. 3. Stir in cooked rice, diced tomatoes, and garlic powder. 4. Spoon the beef mixture into each bell pepper half. 5. Bake for 30-35 minutes, or until the peppers are tender and the filling is heated through.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Roasted Carrots",
+      "ingredients": [
+        "1 lb. carrots",
+        "3 tbsp olive oil",
+        "1 tsp dried thyme",
+        "Salt and pepper to taste",
+        "1/4 cup grated cheese"
+      ],
+      "method": "1. Preheat oven to 425°F. 2. Toss baby carrots with olive oil, dried thyme, salt, and pepper in a large bowl. 3. Arrange carrots in a single layer on a baking sheet. 4. Roast for 20-25 minutes, or until carrots are tender and lightly browned. 5. Sprinkle grated Parmesan cheese over the roasted carrots. 6. Serve immediately.",
+      "cookingTime": "25 minutes"
+    },
+    {
+      "title": "Yellow Chicken Curry",
+      "ingredients": [
+        "Chicken 250g",
+        "Turmeric",
+        "8-10 green chillies",
+        "Onions",
+        "Salt & pepper "
+      ],
+      "method": "1.Add the diced onions on the pan and cook it until golden brown, add green chillies and cook it, 2. Add the chicken and cook for 5 minutes, 3. Add salt and turmeric and cook well until soft, 4. Add pepper and stir well ",
+      "cookingTime": "25 minutes",
+      "id": "-ftEbIW"
+    }
+  ]
+}
