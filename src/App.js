@@ -9,11 +9,14 @@ import Create from './pages/create/Create'
 import Search from './pages/search/Search'
 import ThemeSelector from './components/ThemeSelector'
 
+
 import { BrowserRouter, NavLink, Route, Switch } from 'react-router-dom'
+import { useTheme } from './hooks/useTheme'
 
 function App() {
+	const { mode } = useTheme()
 	return (
-		<div className="App">
+		<div className={`App ${mode}`}>
 			<BrowserRouter>
 				<Navbar/>
 				<ThemeSelector/>
